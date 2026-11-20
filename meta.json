@@ -1,0 +1,29 @@
+{
+  "repo": "keepass-password-safe-professional-complete-setup-guide",
+  "product": "KeePass Password Safe Professional Complete Setup Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "keepass-password-safe-guide",
+    "keepass-password-safe-guide-desktop",
+    "keepass-password-safe-guide-release",
+    "keepass-password-safe-guide-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "KeePass Password Safe Professional Complete Setup Guide"
+}
